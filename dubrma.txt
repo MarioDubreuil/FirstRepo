@@ -1,3 +1,3 @@
 test
 Add a second line
-Add a thrid line from GitHub (17:52)
+Add a third line from GitHub and fix typo (17:50)
